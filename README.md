@@ -24,7 +24,7 @@ List of functions
   string GetIDPS();//Gets IDPS of the console using machdep
   string GetPSID();//Gets the PSID of the console
   string GetKernelVersion();//gets the kernel version
-  string KernelGetOpenPsId();//gets the PSID there are to calls for some reason
+  string KernelGetOpenPsId();//gets the PSID there are two calls for some reason
   int MountSaveData(string TITLEID,string fingerprint);//mounts a selected 
   int UnMountSaveData();//required to unmount savedata if you dont unmount it will cause an app crash
   int SendMessageToPS4(string Message);//Send a notification to the ps4

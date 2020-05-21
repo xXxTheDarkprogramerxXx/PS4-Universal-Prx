@@ -6,6 +6,9 @@ This project is a higly modified version of the orginal version by [RetroGamer74
 
 This version does way more than just escaping sandbox 
 
+Follow Development on [Trello](https://trello.com/c/NThzaJzZ/65-universal-plugin-for-unity)
+
+
 List of functions 
 ```csharp
   int FreeUnjail(int FWVersion);//e.g 5.05

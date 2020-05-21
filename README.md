@@ -11,7 +11,7 @@ Follow Development on [Trello](https://trello.com/c/NThzaJzZ/65-universal-plugin
 
 List of functions 
 ```csharp
-  int FreeUnjail(int FWVersion);//e.g 5.05
+  int FreeUnjail(int FWVersion);//e.g 505
   void SetDebuggerTrue();//this prints a whole lot of notifications on the console
   int FreeFTP();//starts an ftp server
   int FreeMountUsb();
